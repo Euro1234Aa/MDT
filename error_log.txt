@@ -1,9 +1,0 @@
-Traceback (most recent call last):
-  File "<string>", line 4, in <module>
-    exec(open('MDT.pyw', encoding='utf-8').read())
-    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "<string>", line 2264, in <module>
-  File "<string>", line 606, in __init__
-  File "<string>", line 748, in _build_ui
-  File "<string>", line 1224, in init_laws_page
-AttributeError: 'QTextEdit' object has no attribute 'setOpenLinks'
